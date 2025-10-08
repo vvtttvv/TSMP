@@ -1,0 +1,14 @@
+D:\University\TSMP\lab1\bin\Debug\net8.0\SolidAnimals.exe
+D:\University\TSMP\lab1\bin\Debug\net8.0\SolidAnimals.deps.json
+D:\University\TSMP\lab1\bin\Debug\net8.0\SolidAnimals.runtimeconfig.json
+D:\University\TSMP\lab1\bin\Debug\net8.0\SolidAnimals.dll
+D:\University\TSMP\lab1\bin\Debug\net8.0\SolidAnimals.pdb
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.AssemblyInfoInputs.cache
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.AssemblyInfo.cs
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.csproj.CoreCompileInputs.cache
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.dll
+D:\University\TSMP\lab1\obj\Debug\net8.0\refint\SolidAnimals.dll
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.pdb
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.genruntimeconfig.cache
+D:\University\TSMP\lab1\obj\Debug\net8.0\ref\SolidAnimals.dll
