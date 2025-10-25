@@ -12,3 +12,8 @@ D:\University\TSMP\lab1\obj\Debug\net8.0\refint\SolidAnimals.dll
 D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.pdb
 D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.genruntimeconfig.cache
 D:\University\TSMP\lab1\obj\Debug\net8.0\ref\SolidAnimals.dll
+D:\University\TSMP\lab1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University\TSMP\lab1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.csproj.AssemblyReference.cache
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAni.94BC4C9B.Up2Date
+D:\University\TSMP\lab1\obj\Debug\net8.0\SolidAnimals.sourcelink.json

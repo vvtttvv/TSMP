@@ -88,19 +88,26 @@ namespace SolidAnimals
     {
         static void Main()
         {
+            var services = new ServiceCollection();
 
-            var animals = new List<AnimalCreator>
+            services.AddTransient<DogFactory>();
+            services.AddTransient<CatFactory>();
+            services.AddTransient<CowFactory>();
+            services.AddTransient<AnimalCreator>();
+
+            var provider = services.BuildServiceProvider();
+
+            var animals = new List<(IAnimalFactory Factory, string Name)>
             {
-                new AnimalCreator(new DogFactory()),
-                new AnimalCreator(new CatFactory()),
-                new AnimalCreator(new CowFactory())
+                (provider.GetRequiredService<DogFactory>(), "Rex"),
+                (provider.GetRequiredService<CatFactory>(), "Mittens"),
+                (provider.GetRequiredService<CowFactory>(), "Bessie")
             };
 
-            string[] names = { "Rex", "Mittens", "Bessie" };
-
-            for (int i = 0; i < animals.Count; i++)
+            foreach (var (factory, name) in animals)
             {
-                animals[i].CreateAndMakeSound(names[i]);
+                var creator = ActivatorUtilities.CreateInstance<AnimalCreator>(provider, factory);
+                creator.CreateAndMakeSound(name);
             }
         }
     }
