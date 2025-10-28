@@ -1,4 +1,4 @@
-package com.example.components.gpu;
+package src.main.java.com.example.components.gpu;
 
 public class OfficeGPU implements GPU {
     @Override

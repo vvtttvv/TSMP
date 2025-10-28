@@ -1,4 +1,4 @@
-package com.example.components.ram;
+package src.main.java.com.example.components.ram;
 
 public class GamingRAM implements RAM {
     @Override

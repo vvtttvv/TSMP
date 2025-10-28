@@ -1,9 +1,9 @@
-package com.example.factory;
+package src.main.java.com.example.factory;
 
-import com.example.components.processor.Processor;
-import com.example.components.gpu.GPU;
-import com.example.components.ram.RAM;
-import com.example.components.storage.Storage;
+import src.main.java.com.example.components.processor.Processor;
+import src.main.java.com.example.components.gpu.GPU;
+import src.main.java.com.example.components.ram.RAM;
+import src.main.java.com.example.components.storage.Storage;
 
 public abstract class ComponentFactory {
     public abstract Processor createProcessor();

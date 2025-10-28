@@ -1,9 +1,9 @@
-package com.example.factory;
+package src.main.java.com.example.factory;
 
-import com.example.components.processor.*;
-import com.example.components.gpu.*;
-import com.example.components.ram.*;
-import com.example.components.storage.*;
+import src.main.java.com.example.components.processor.*;
+import src.main.java.com.example.components.gpu.*;
+import src.main.java.com.example.components.ram.*;
+import src.main.java.com.example.components.storage.*;
 
 public class OfficeSetupFactory extends ComponentFactory {
     @Override

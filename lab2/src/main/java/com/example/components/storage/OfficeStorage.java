@@ -1,4 +1,4 @@
-package com.example.components.storage;
+package src.main.java.com.example.components.storage;
 
 public class OfficeStorage implements Storage {
     @Override

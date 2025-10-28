@@ -1,4 +1,4 @@
-package com.example.components.processor;
+package src.main.java.com.example.components.processor;
 
 public class OfficeProcessor implements Processor {
     @Override
