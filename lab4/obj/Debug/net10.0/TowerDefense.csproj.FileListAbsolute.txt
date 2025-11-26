@@ -1,0 +1,15 @@
+D:\University\TSMP\lab4\bin\Debug\net10.0\TowerDefense.exe
+D:\University\TSMP\lab4\bin\Debug\net10.0\TowerDefense.deps.json
+D:\University\TSMP\lab4\bin\Debug\net10.0\TowerDefense.runtimeconfig.json
+D:\University\TSMP\lab4\bin\Debug\net10.0\TowerDefense.dll
+D:\University\TSMP\lab4\bin\Debug\net10.0\TowerDefense.pdb
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.AssemblyInfoInputs.cache
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.AssemblyInfo.cs
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.csproj.CoreCompileInputs.cache
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.sourcelink.json
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.dll
+D:\University\TSMP\lab4\obj\Debug\net10.0\refint\TowerDefense.dll
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.pdb
+D:\University\TSMP\lab4\obj\Debug\net10.0\TowerDefense.genruntimeconfig.cache
+D:\University\TSMP\lab4\obj\Debug\net10.0\ref\TowerDefense.dll
